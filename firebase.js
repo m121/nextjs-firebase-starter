@@ -4,13 +4,13 @@ import 'firebase/firestore';
  
 // Your web app's Firebase configuration
 const config = {
-    apiKey: "XXXXXXXXXXXXXXXXXXX",
-    authDomain: "XXXXXXXXXXXXXXXXXXXXXXXXXX",
-    databaseURL: "XXXXXXXXXXXXXXXXXX",
-    projectId: "XXXXXXXXXXXXXXXXXXX",
-    storageBucket: "XXXXXXXXXXXXXXXX",
-    messagingSenderId: "XXXXXXXXXXXXXXXXX",
-    appId: "XXXXXXXXXXXXXXXXXXX"
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    authDomain: "XXXXXXXXXXXXXX.firebaseapp.com",
+    databaseURL: "https://XXXXXXXXXXXXXXXXXXXXXXXX",
+    projectId: "XXXXXXXXXXXXXXXXXXx",
+    storageBucket: "XXXXXXXXXXXXXXXXXXX",
+    messagingSenderId: "XXXXXXXXXXXXX",
+    appId: "1:0000000000000000000000000000"
   };
   // Initialize Firebase
   if (!firebase.apps.length) {
